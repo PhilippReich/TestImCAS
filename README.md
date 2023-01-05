@@ -7,4 +7,4 @@ Eine Übung für den CAS Datenjournalismus!
 - Abraham Lincoln
 - Barack Obama
 
-![Das ist ein Bild](https://https://product-image.juniqe-production.juniqe.com/media/catalog/product/seo-cache/x800/773/65/773-65-301P__CENTER/Big-and-Little-Natural-Kingdom-Leinwandbild.jpg)
+![Elefant](https://user-images.githubusercontent.com/112934680/210742594-3c5ca39a-6682-4aa1-a9a3-cef38f2642c3.jpg)
