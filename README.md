@@ -10,7 +10,7 @@ Eine Übung für den CAS Datenjournalismus!
 ![Elefant](https://user-images.githubusercontent.com/112934680/210742594-3c5ca39a-6682-4aa1-a9a3-cef38f2642c3.jpg)
 
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+News ohne blabla auf [watson.ch](https://www.watson.ch/)
 
 
 | Tables        | Are           | Cool  |
